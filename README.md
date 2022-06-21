@@ -38,7 +38,7 @@ A Software Engineer who write magic spells to make dreams a reality 🧙‍♂�
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&show_icons=true&theme=dracula" alt="omaralmutairi" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=omaralmutairi&show_icons=true&theme=dracula" alt="omaralmutairi" /></p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C743%20hrs%2055%20mins-blue)
